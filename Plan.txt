@@ -1,0 +1,32 @@
+
+
+
+App is going to need the following pages
+
+PAGES:
+	
+	Search Result pages
+	List of products pages
+		Product details pages
+		Checkout page 
+		Cart PAGES
+	Account Page
+	
+	Adming pages
+	Inventory Page
+		Add product pages
+		Edit product pages
+
+		
+	Login pages
+	
+	
+FUNCTIONS:
+	add, update, delete data records
+	authenication
+	search
+	
+	
+	
+Confirm 
+	
